@@ -6,4 +6,4 @@ O Desafio foi criar um o primeiro site com Html
 
 Para visualizar o Projeto como site. <a href="https://avalosdev.github.io/Desafio_Site/">Saiba mais</a>
 <br>
-Para visualizar o Git Hub. <a href="https://github.com/avalosdev/Desafio_Site">Visualizar o Repositório</a>
+Para visualizar o Git Hub. <a href="https://github.com/avalosdev/Desafio_Site/tree/master">Visualizar o Repositório</a>
